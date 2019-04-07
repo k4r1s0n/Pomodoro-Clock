@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css?family=Audiowide');
+
+body {
+	background-image: url("https://img3.goodfon.ru/original/1920x1080/d/ec/kosmos-art-chernaya-bezdna.jpg");
+	background-size: 100%;
+	background-attachment: fixed;
+	color: white;
+  font-family: 'Audiowide', cursive;
+}
+
+h3 {
+	display: inline;
+}
+
+#start {
+	margin: 10px;
+}
