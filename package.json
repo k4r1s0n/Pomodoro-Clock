@@ -1,0 +1,21 @@
+{
+  "name": "pomodoro-clock",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/k4r1s0n/Pomodoro-Clock.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://k4r1s0n.github.io/Pomodoro-Clock",
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  }
+}
